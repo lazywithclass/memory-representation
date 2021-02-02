@@ -94,6 +94,7 @@ window.stateHeapstatic = [
                         `,
                         heap: `
                             <span class="variable">list string → ["Rick Sanchez"]</span>
+                            <span class="variable">hugeBook string</span>
                         `,
                         static: `
                             <span class="variable">Pi float64 → 3.14</span>
