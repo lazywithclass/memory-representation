@@ -4,7 +4,7 @@ const Pi float64 = 3.14
 var answer int = 42
 
 func main() {
-    a := 0
+    var a int
     a++
 
     someFunction()
